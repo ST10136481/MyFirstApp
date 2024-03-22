@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="order_now">Order Now</string>
+</resources>
