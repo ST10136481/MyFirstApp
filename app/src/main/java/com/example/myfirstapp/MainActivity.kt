@@ -42,5 +42,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
             Toast.LENGTH_SHORT).show()
 
         openIntent(this, order.productName, OrderDetailsActivity::class.java)
+
+        val helloWorld : String = "hello world"
     }
 }
